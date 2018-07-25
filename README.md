@@ -10,6 +10,7 @@ Installation des gems nécéssaires
 Aller dans le dossier 'MOOCademy' puis entrer la commande :
 
 $ bundle install
+
 $rails db:seed (pour remplir votre base de données)
 
 Projet réalisé par Laetitia69
